@@ -1,0 +1,6 @@
+{
+  "name": "VerticalMap 3D",
+  "description": "3D ULPIN Generation and Vertical Property Mapping System - From 2D Land Parcels to 3D Property Intelligence for Department of Land Resources (DoLR)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
